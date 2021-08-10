@@ -106,7 +106,7 @@ These are some of the technologies and tools that I work with:
 #### :lotus_position_man: My Thoughts
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/ChengGuang-Li/7a552b5e4570c42b3e79bbca5fc81df2/raw/1b559464a35fa9783bdce8a58a403882ab40831c/quotes.json&theme=radical" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/ChengGuang-Li/7a552b5e4570c42b3e79bbca5fc81df2/raw/1b559464a35fa9783bdce8a58a403882ab40831c/quotes.json&theme=radical&animation=grow_out_in" alt="my-personal-project"/>
 </p>
 
 <!--
