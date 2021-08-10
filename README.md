@@ -74,12 +74,5 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <th>Others</th>
-    <td>
-      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-    </td>
-  </tr>
-  
+
 </table>
