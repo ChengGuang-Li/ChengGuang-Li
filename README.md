@@ -1,33 +1,11 @@
 ### Hi there 👋, ChengGuang Li
-
+---
 - 🌱 I’m currently learning AWS 
 - 👯 I’m looking to collaborate on and work on new Open Source projects 
 - 📫 How to reach me: chengguang333@gmail.com 
 - ⚡ Fun fact: There is BIG money in coding 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChengGuang-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chengguangli.ninja/)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChengGuang-Li)  
-
 ![Profile views](https://gpvc.arturio.dev/ChengGuang-Li)  
-<!--
-**ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
--->
+---
 #### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -89,3 +67,27 @@ These are some of the technologies and tools that I work with:
   </tr>
 
 </table>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChengGuang-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chengguangli.ninja/)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChengGuang-Li)  
+
+
+<!--
+**ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+-->
+
