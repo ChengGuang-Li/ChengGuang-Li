@@ -1,4 +1,7 @@
-### Hi there 👋, ChengGuang Li
+
+<p align="center">
+  <h1 align="center">Hi there 👋, ChengGuang Li</h1>
+</p>
 ---
 - 🌱 I’m currently learning AWS 
 - 👯 I’m looking to collaborate on and work on new Open Source projects 
@@ -89,11 +92,11 @@ These are some of the technologies and tools that I work with:
 
 </table>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChengGuang-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chengguangli.ninja/)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChengGuang-Li)  
-
-
+<p align="center">
+  <img src="assets/header.png" alt="header"/>
+</p>
+---
+#### :lotus_position_man: My Thoughts
 <!--
 **ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -110,5 +113,5 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
--->
+  -->
 
