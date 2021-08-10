@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json)
 
 <!--
 **ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
