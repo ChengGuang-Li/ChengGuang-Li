@@ -104,7 +104,7 @@ These are some of the technologies and tools that I work with:
 #### :lotus_position_man: My Thoughts
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?https://github-readme-streak-stats.herokuapp.com/?user=chengguangLi&theme=algolia&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?https://github-readme-streak-stats.herokuapp.com/?user=chengguangLi&theme=algolia&quotesUrl=https://gist.github.com/ChengGuang-Li/7a552b5e4570c42b3e79bbca5fc81df2/quotes.json" alt="my-personal-project"/>
 </p>
 
 <!--
