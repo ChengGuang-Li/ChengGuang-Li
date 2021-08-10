@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/chengguang-li-966198211/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chengguang-li-966198211/"/>
   </a>
-    <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
+    <a href="https://chengguangli.ninja/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=website&logoColor=red"/>
   </a>
 </p>
