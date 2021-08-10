@@ -104,11 +104,11 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
 <a href="https://github.com/ChengGuang-Li">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ChengGuangLi&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ChengGuang-Li&theme=radical&hide_border=true" />
 </a>
 </p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChengGuang-Li&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ---
 
 
