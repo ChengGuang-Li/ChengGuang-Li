@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, ChengGuang Li
+
+- 🌱 I’m currently learning AWS 
+- 👯 I’m looking to collaborate on and work on new Open Source projects 
+- 📫 How to reach me: chengguang333@gmail.com 
+- ⚡ Fun fact: There is BIG money in coding 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChengGuang-Li)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chengguangli.ninja/)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChengGuang-Li)  
+
+![Profile views](https://gpvc.arturio.dev/ChengGuang-Li)  
 <!--
 **ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
