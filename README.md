@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">Hi there 👋, ChengGuang Li</h1>
+  <h1 align="center">Hi there 👋, I'm ChengGuang Li</h1>
 </p>
 <br>
 
