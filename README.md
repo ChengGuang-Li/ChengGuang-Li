@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chengguang-li-966198211/"/>
   </a>
     <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
+    <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=website&logoColor=red"/>
   </a>
 </p>
 
 
-<p align="center">  ![Profile views](https://gpvc.arturio.dev/ChengGuang-Li)  </p>
+<p align="center">  <img src="https://gpvc.arturio.dev/chengguang-li" alt="profile-views">  </p>
 
 
 
