@@ -56,10 +56,7 @@ These are some of the technologies and tools that I work with:
   <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
-      <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white" /> 
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     </td>
   </tr>
