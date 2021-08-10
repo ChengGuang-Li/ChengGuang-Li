@@ -44,7 +44,6 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
     </td>
   </tr>
   <tr>
