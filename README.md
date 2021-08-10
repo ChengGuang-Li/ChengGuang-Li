@@ -96,6 +96,8 @@ These are some of the technologies and tools that I work with:
 <p align="center">
   <img src="assets/header.png" alt="header"/>
 </p>
+
+
 ---
 
 
