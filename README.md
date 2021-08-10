@@ -97,6 +97,8 @@ These are some of the technologies and tools that I work with:
   <img src="assets/header.png" alt="header"/>
 </p>
 ---
+
+
 #### :lotus_position_man: My Thoughts
 <!--
 **ChengGuang-Li/ChengGuang-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
