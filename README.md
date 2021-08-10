@@ -97,10 +97,19 @@ These are some of the technologies and tools that I work with:
   <img src="assets/header.png" alt="header"/>
 </p>
 
-
 ---
 
 
+#### :octocat:  My Github Stats
+
+<p align="center">
+<a href="https://github.com/ChengGuang-Li">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ChengGuangLi&theme=radical&hide_border=true" />
+</a>
+</p>
+
+
+---
 
 
 #### :lotus_position_man: My Thoughts
