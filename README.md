@@ -40,7 +40,8 @@ These are some of the technologies and tools that I work with:
     <th>Programming Languages</th>
     <td> 
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />            
+      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />   
+      <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift" />
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />     
       <img src="https://img.shields.io/badge/-Markdown-black?&style=flat-square&logo=markdown&logoColor=white" />
