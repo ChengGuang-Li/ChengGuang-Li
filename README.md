@@ -45,7 +45,6 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />     
       <img src="https://img.shields.io/badge/-Markdown-black?&style=flat-square&logo=markdown&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />  
    </td>
   </tr>
   <tr>
@@ -54,6 +53,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
       <img src="https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springBoot&logoColor=white%22" />
+      <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />  
     </td>
   </tr>
   <tr>
