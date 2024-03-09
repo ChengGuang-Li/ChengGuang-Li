@@ -10,8 +10,8 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # Execute the task every day at midnight Melbourne time.
+    - cron: '0 13 * * *'
 
 jobs:
   update-readme:
