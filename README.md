@@ -1,4 +1,3 @@
-
 ```bash
 #!/bin/bash
 
@@ -8,7 +7,7 @@ while true; do
     case $INPUT_STRING in
         profile)
             echo "Name: Chengguang Li"
-            echo "Interests: fitness, outdoors, soccers"
+            echo "Interests: fitness, outdoors, football"
             echo "Learning: Distributed Systems, AWS, Image Processing"
             echo "Dev Devices: MSI on Windows, Macbook Pro M2"
             ;;
@@ -25,7 +24,19 @@ done
 
 ```
 
+<!--Contribution Graph-->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chengguang-li&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=chengguang-li&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
 📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -37,3 +48,4 @@ Other            26 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
