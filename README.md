@@ -40,9 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 34 mins   ██████████████████████▒░░   89.50 %
-JSON         17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
