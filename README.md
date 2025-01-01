@@ -40,11 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   21 mins         █████████████▒░░░░░░░░░░░   53.14 %
-Other        10 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-Markdown     4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-CSV          3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
