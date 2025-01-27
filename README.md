@@ -40,9 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   29 mins         ███████████████████▓░░░░░   78.47 %
-Prisma       7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
