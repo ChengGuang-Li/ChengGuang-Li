@@ -40,7 +40,10 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   6 mins          ████████████▒░░░░░░░░░░░░   48.72 %
+HTML         6 mins          ████████████░░░░░░░░░░░░░   47.68 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+GLSL         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
