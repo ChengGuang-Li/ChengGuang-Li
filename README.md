@@ -40,9 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 36 mins   █████████████████████▓░░░   86.37 %
-Other        16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Prisma       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+TypeScript   19 mins         █████████████████████████   99.87 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
