@@ -40,8 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins         ██████████████████████▒░░   89.42 %
-Other      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Markdown   48 mins         ███████████████████████▒░   93.88 %
+Other      3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
