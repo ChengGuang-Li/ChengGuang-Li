@@ -40,10 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-Other        4 hrs 37 mins   █████████████████████▓░░░   86.87 %
-JavaScript   28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        2 hrs 3 mins    █████████████████████▓░░░   86.89 %
+JavaScript   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
 ```
 
 <!--END_SECTION:waka-->
