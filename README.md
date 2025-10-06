@@ -40,8 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          ██████████████░░░░░░░░░░░   55.87 %
-YAML         0 secs          ███████████░░░░░░░░░░░░░░   44.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
