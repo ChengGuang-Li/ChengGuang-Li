@@ -40,7 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   7 mins          █████████████████████████   100.00 %
+TypeScript   10 mins         ██████████████▒░░░░░░░░░░   57.74 %
+JSON         7 mins          ██████████▓░░░░░░░░░░░░░░   42.26 %
 ```
 
 <!--END_SECTION:waka-->
