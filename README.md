@@ -40,9 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   43 mins         ███████████████████▓░░░░░   78.39 %
-Markdown     9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+TypeScript   28 mins         ███████████████████████▒░   92.76 %
+Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
