@@ -40,9 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-Other      49 mins               █████████████████▒░░░░░░░   69.07 %
-Markdown   22 mins               ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
