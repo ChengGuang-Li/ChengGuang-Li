@@ -40,9 +40,9 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 hrs 9 mins          █████████████▓░░░░░░░░░░░   54.04 %
-TeX        4 hrs 1 min           ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-Other      2 hrs 4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Markdown   7 hrs 28 mins         ███████████▒░░░░░░░░░░░░░   45.45 %
+TeX        6 hrs 54 mins         ██████████▒░░░░░░░░░░░░░░   41.93 %
+Other      2 hrs 4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 ```
 
 <!--END_SECTION:waka-->
