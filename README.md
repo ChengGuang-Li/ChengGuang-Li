@@ -40,11 +40,11 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 15 mins        ████████████████▓░░░░░░░░   66.85 %
-Markdown     4 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-JavaScript   1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Prisma       35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Git Config   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+TypeScript   11 hrs 8 mins         ███████████████▓░░░░░░░░░   62.66 %
+Markdown     3 hrs 50 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
+JavaScript   1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Prisma       35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Git Config   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
