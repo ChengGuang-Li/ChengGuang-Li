@@ -40,10 +40,7 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          46 mins               █████████████░░░░░░░░░░░░   51.92 %
-HTML         32 mins               █████████▒░░░░░░░░░░░░░░░   37.09 %
-JavaScript   8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
