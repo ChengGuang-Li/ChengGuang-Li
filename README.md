@@ -40,7 +40,8 @@ done
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        43 mins               █████████████▒░░░░░░░░░░░   52.96 %
+Markdown   38 mins               ███████████▓░░░░░░░░░░░░░   47.04 %
 ```
 
 <!--END_SECTION:waka-->
